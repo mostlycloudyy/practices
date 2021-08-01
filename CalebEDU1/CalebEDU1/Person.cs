@@ -24,7 +24,7 @@ namespace CalebEDU1
         // Summary:
         //     Writes the text representation of the specified object, followed by the current
         //     line terminator, to the standard output stream using the specified format information.
-        //
+        
         {
             return $"{FirstName} {LastName}";
         }
