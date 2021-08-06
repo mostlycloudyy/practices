@@ -1,0 +1,167 @@
+﻿namespace -> classes -> members -> method -> statements
+
+a namespace - used for organization
+
+a class - has members (such as method)
+
+a method - contains a block of code
+
+
+-----------------------------------------------------------------------
+
+-- Character Data Type
+
+Char letter = 'a';			using single quote '
+
+ASCII Table = American Standart Code for Information Interchange
+ASCII code is the numerical representation of a character
+ASCII = 8 bit = 0-255
+
+C# Char can show UNICODE letters 
+UNICODE = 16 bit = 65536 characters
+
+-----------------------------------------------------------------------
+
+-- String Data Type
+
+String is part of the Reference types category
+
+Strings can be come with big values so we put them in heap
+
+string name = "Talha";		using double quote "
+
+Strings are immutable
+
+You can convert char arrays into strings 
+
+You can use $ sign for string interpolation.
+
+
+--String Property and methods
+
+Length() = Gets the number of characters in the current string object
+
+Property gives us a value - Method will do something | You have to put parenthesis after method ()
+
+CompareTo	= -1 if our string comes first on alphabet, 0 if same, 1 if string comes after
+Split		= Split our string based on a char to string array. 
+
+--String Escape Sequences
+
+\' Single Quote - \" Double Quote - \\ Backslash - \0 Null - \a Alert - \b Backspace
+\f Form feed - \n New line - \t Horizontal Tab - \r
+
+-----------------------------------------------------------------------
+
+Creating Basic Classes, Methods, and Properties
+
+Add -> New -> Class from Solution Explorer
+
+-----------------------------------------------------------------------
+
+Control Flow if, else
+
+-----------------------------------------------------------------------
+
+Switch Statement
+
+return statement always goes outside of whatever method you're in.
+if you return inside Main method you will stop program.
+
+case x:
+case y:				--Both will do the same thing.
+	************
+	break;
+
+-----------------------------------------------------------------------
+
+Ternary Operator
+
+General Structure
+expression ? true(return this if true) : false(return this if false)
+
+(if (expression))
+
+-----------------------------------------------------------------------
+
+Single Line if Statement
+
+if (statement) Console.WriteLine("Write here what you want to do if that statement is true");
+
+-----------------------------------------------------------------------
+
+while Loops
+
+Loops = while, do while, for, foreach.
+
+while loop 
+3 main part
+initialization, condition, update
+
+do while loop
+first do the job then looks for condition.
+This is the perfect loop if you want something to execute always at least once.
+
+for loop
+for(initialization; condition; update)
+
+-----------------------------------------------------------------------
+
+Nested Control Flow
+
+if statement inside if statement
+
+-----------------------------------------------------------------------
+
+Variable Scope with Nested Control Flow
+
+When we create a variable it scoped to the curlybraces {} its defined in.
+
+if you create a variable under class directly it will be class variable and you can use everwhere inside that class.
+
+-----------------------------------------------------------------------
+
+break - it break the loop and take out of that curlybraces {} which its defined in.
+
+continue - it break the iteration which its defined in, and continue after next iteration in the same loop.
+
+-----------------------------------------------------------------------
+
+Intro to Arrays
+
+You can store multiple variables of the same type in an array data structure. 
+You declare an array by specifying the type of its elements. 
+If you want the array to store elements of any type, you can specify "object" as its type.
+
+
+Filling array dynamically
+
+First we will decide the array's length with user input then we will fill array inside loop with user inputs.
+
+
+Sorting array
+
+Array.Sort(arrayName) method will sort datas from little to big or alphabetically from a to z.(Ascending)
+Array.Reverse will reverse the indexs of array.
+Enumerable.SequenceEqual -- this will help us to see if arrays are equal.(return bool value)
+Array.IndexOf(arrayName, whichvalueurlookinfor) will give us the index number of the value we are looking for inside spesific array.(return int)
+
+-----------------------------------------------------------------------
+
+Multidimensional Arrays
+
+2 dimensional
+int[ , ] first value for rows, second value for columns. Just like a table.
+int[ , ]  -> Normal 2 dimensional Array
+int [] [] -> Jagged 2 dimensional Array
+in jagged array we can have different columns for each row
+int [0] has 5 index while int [1] has 4 index
+
+Iteration through array 
+In normal 2d array we get every dimensions' length with arrayName.GetLength() method and we can make iteration through loops.
+
+-----------------------------------------------------------------------
+
+Lists
+
+
