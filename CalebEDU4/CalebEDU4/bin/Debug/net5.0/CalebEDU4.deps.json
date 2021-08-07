@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalebEDU4/1.0.0": {
+        "runtime": {
+          "CalebEDU4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalebEDU4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
