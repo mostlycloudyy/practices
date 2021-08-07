@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPL/ncNoxHzRpPxfrQ2oV/VNmxkbibTwpV3W3ieXy2wEv+VbKdLQWVo9GVfZPRhAqC9EfQ3/0CI2//VGN6Tj+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talha\\source\\repos\\CalebEDU4\\CalebEDU4\\CalebEDU4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

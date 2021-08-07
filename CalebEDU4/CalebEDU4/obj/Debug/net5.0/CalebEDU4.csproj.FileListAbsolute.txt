@@ -1,0 +1,16 @@
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.exe
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.deps.json
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.runtimeconfig.json
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.runtimeconfig.dev.json
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.dll
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\ref\CalebEDU4.dll
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\bin\Debug\net5.0\CalebEDU4.pdb
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.AssemblyInfo.cs
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.dll
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\ref\CalebEDU4.dll
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.pdb
+C:\Users\talha\source\repos\CalebEDU4\CalebEDU4\obj\Debug\net5.0\CalebEDU4.genruntimeconfig.cache
